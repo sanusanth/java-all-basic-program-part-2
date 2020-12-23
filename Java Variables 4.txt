@@ -1,0 +1,7 @@
+public class Main {
+  public static void main(String[] args) {
+    int myNum = 15;
+    myNum = 20;  // myNum is now 20 , Note that if you assign a new value to an existing variable, it will overwrite the previous value:
+    System.out.println(myNum);
+  }
+}
