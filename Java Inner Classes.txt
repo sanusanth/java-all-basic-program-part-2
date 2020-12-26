@@ -12,4 +12,4 @@ public class Main {
     OuterClass.InnerClass myInner = myOuter.new InnerClass();
     System.out.println(myInner.y + myOuter.x);
   }
-}
+} Creater By Sanusanth
