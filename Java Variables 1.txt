@@ -3,4 +3,4 @@ public class Main {
     String name = "sanus"; // Create a variable called name of type String and assign it the value "sanus":
     System.out.println(name);
   }
-}
+}  \\ Creater By Sanusanth
