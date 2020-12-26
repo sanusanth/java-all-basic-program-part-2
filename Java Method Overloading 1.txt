@@ -13,4 +13,4 @@ public class Main {
     System.out.println("int: " + myNum1);
     System.out.println("double: " + myNum2);
   }
-}
+}  \\ Creater By Sanusanth
