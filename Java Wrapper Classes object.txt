@@ -7,4 +7,4 @@ public class Main {
     System.out.println(myDouble);
     System.out.println(myChar);
   }
-}
+}  \\ Creater By Sanusanth
