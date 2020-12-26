@@ -17,4 +17,4 @@ public class Main {
     // Print the first item
     System.out.println(it.next());
   }
-}
+}  \\ Creater By Sanusanth
