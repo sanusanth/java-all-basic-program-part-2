@@ -7,4 +7,4 @@ public class Main {
     System.out.println(sum2);
     System.out.println(sum3);  
   }
-}
+}  \\ Creater By Sanusanth
