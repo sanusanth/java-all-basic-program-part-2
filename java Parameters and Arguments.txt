@@ -8,4 +8,4 @@ public class Main {
     myMethod("Jenny");
     myMethod("Anja");
   }
-}
+} \\ Creater By Sanusanth
