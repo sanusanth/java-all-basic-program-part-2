@@ -7,4 +7,4 @@ public class Main {
     System.out.println(myObj1.x);
     System.out.println(myObj2.x);
   }
-}
+} \\ Creater By Sanusanth 
