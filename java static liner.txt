@@ -11,4 +11,4 @@ public class Main {
     OuterClass.InnerClass myInner = new OuterClass.InnerClass();
     System.out.println(myInner.y);
   }
-}
+} \\ Creater By Sanusanth 
