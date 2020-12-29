@@ -6,4 +6,4 @@ public class Main {
     System.out.println(myDouble);
     System.out.println(myInt);
   }
-}
+} \\ Creater By Sanusanth
