@@ -4,4 +4,4 @@ public class Main {
       System.out.println("20 is greater than 18"); // obviously
     }  
   }
-}
+} \\ Creater By Sanusanth 
