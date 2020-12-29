@@ -7,4 +7,4 @@ public class Main {
     int z = myMethod(5, 3);
     System.out.println(z);
   }
-}
+} \\ Creater By Sanusanth
