@@ -11,4 +11,4 @@ public class Main {
     Consumer<Integer> method = (n) -> { System.out.println(n); };
     numbers.forEach( method );
   }
-}
+} \\ Creater By Sanusanth 
