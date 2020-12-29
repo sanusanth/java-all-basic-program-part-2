@@ -16,4 +16,4 @@ public class Main {
     Main myObj = new Main(); // Create an object of MyClass
     myObj.myPublicMethod(); // Call the public method
   }
-}
+} \\ Creater By Sanusanth 
