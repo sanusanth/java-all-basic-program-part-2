@@ -3,4 +3,4 @@ public class Main {
     int myNum = 100000;
     System.out.println(myNum);  
   }
-}
+} \\ creater By Sanusanth 
